@@ -1,11 +1,6 @@
 # == Class: mtr
 #
-# Full description of class mtr here.
-#
-# === Parameters
-#
-# [*sample_parameter*]
-#   Explanation of what this parameter affects and what it defaults to.
+# Install MTR and set it to be run-able by non-root
 #
 class mtr (
   $package = 'mtr'
