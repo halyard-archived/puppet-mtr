@@ -1,0 +1,22 @@
+{
+  "name": "halyard-mtr",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure mtr via Boxen",
+  "source": "https://github.com/halyard/puppet-mtr",
+  "project_page": "https://github.com/halyard/puppet-mtr",
+  "issues_url": "https://github.com/halyard/puppet-mtr/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
